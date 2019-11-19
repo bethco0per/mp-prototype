@@ -228,7 +228,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #ae8094;
 }
 
 .contact-section .card h4 {
@@ -239,7 +239,7 @@
 }
 
 .contact-section .card hr {
-  border-color: ##ae8094;
+  border-color: #ae8094;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -255,7 +255,7 @@
   background: rgba(255, 255, 255, 0.1);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: #ae8094(255, 255, 255, 0.3);
 }
 
 .contact-section .social a:hover {
@@ -272,7 +272,7 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #ae8094;
 }
 
 a:focus, a:hover {
@@ -281,7 +281,7 @@ a:focus, a:hover {
 }
 
 .bg-black {
-  background-color: #161616 !important;
+  background-color: #ae8094 !important;
 }
 
 .bg-primary {
