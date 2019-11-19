@@ -146,20 +146,20 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #ae8094;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #ae8094;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #ae8094;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #ae8094 !important;
 }
 
 .about-section {
@@ -239,7 +239,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: ##ae8094;
   border-width: 0.25rem;
   width: 3rem;
 }
